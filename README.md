@@ -1,3 +1,3 @@
 # xmlparser_report
 
-Um parser para um report xml gerado em projeto de pesquisa.
+Programa em Python para extração de dados (report em xml) de deformação (strain miocárdico) em RM cardíaca.
